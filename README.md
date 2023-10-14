@@ -1,2 +1,2 @@
 # FrontDevTest
-A simple hero app front page created in react.js 
+A simple hero app frontend homepage created in react.js 
