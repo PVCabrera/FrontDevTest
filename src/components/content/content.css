@@ -1,0 +1,43 @@
+.mainText-loc{
+  display: flex;
+  max-width: 425px;
+}
+.mainText-loc h1{
+  color: rgb(0, 0, 0);
+  font-weight: 600;
+  font-size: 3rem;
+  margin-top: 3rem;
+  margin-bottom: 1rem;
+}
+
+.btn{
+  border-radius: 5px !important;
+  font-size: small !important;
+  padding: .5rem !important;
+  padding-right: 20px !important;
+  padding-left: 20px !important;
+}
+.images{
+  margin-top: 2rem;
+  display: flex;
+  /* flex-wrap: wrap; */
+  justify-content: center;
+}
+.img-sizes{
+  min-width: 400px;
+}
+.banner{
+  background-color: #0d6efd ;
+  position: absolute;
+  margin-top: 18rem;
+  min-width: 400px;
+  padding-bottom: 1.9rem;
+  color:white;
+}
+.card-img{
+  display: inline-flex;
+}
+h3{
+  margin-left: 2rem;
+  padding-top: 2.5rem;
+}

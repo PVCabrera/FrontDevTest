@@ -1,0 +1,11 @@
+html{
+  background-color: #ffffff;
+  max-width: 1200px;
+  margin: auto;
+}
+
+@media screen and (max-width: 600px) {
+  html{
+    margin: auto;
+  }
+}
