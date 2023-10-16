@@ -9,7 +9,7 @@ function Content() {
       <button type="button" className="btn btn-primary">
         Get Started
       </button>
-      <div className="images">
+      <div className="image-container">
         <div className="card-img">
           <img
             className="img-sizes"
