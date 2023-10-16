@@ -17,7 +17,7 @@ function Content() {
             alt="person using card"
           ></img>
           <span className="banner">
-            <h3>Send invoices →</h3></span>
+            <h3>Send invoices 🡢</h3></span>
         </div>
         <img
           className="img-sizes"
