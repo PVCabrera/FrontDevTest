@@ -41,3 +41,7 @@ h3{
   margin-left: 2rem;
   padding-top: 2.5rem;
 }
+
+.banner:hover{
+  background-color: #4187f0f1;
+}
